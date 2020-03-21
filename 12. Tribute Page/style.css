@@ -1,0 +1,70 @@
+body{
+    background-color:white;
+}
+#main{
+    position: relative;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:5px;
+    margin-right:5px;
+    background-color: #D3D3D3;
+    border-radius: 20px;
+}
+
+#title{
+    position: relative;
+    padding-top:30px;
+    padding-bottom:10px;
+    text-align : center;
+}
+#title h1{
+    font-size:30px;
+    
+    font-family:monospace;
+}
+#title h3{
+    font-size:12px;
+    font-weight:100;
+    font-family: monospace;
+}
+#img-div{
+    margin-left:10px;
+    margin-right:10px;
+    padding-top:30px;
+    padding-bottom:20px;
+    padding-left:15%;
+    padding-right:15%;
+    background-color:white;
+}
+#image{
+    max-width: 100%;
+    height:auto;
+}
+#img-caption{
+    font-size:15px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top:10px;
+    padding-top:10px;
+}
+
+#tribute-info{
+    font-family: serif;
+    padding-left:25%;
+    padding-right:25%;
+    padding-top:30px;
+    padding-bottom:20px;
+    line-height: 30px;
+    
+}
+#tribute-info h2{
+    text-align: center;
+}
+
+footer{
+    padding-bottom:20px;
+    font-size: 20px;
+    font-weight:100px;
+    font-family: monospace;
+    text-align: center;
+}
