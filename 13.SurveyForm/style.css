@@ -1,0 +1,108 @@
+body{
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
+    text-align:center;
+
+}
+#title{
+    color:white;
+    font-family:monospace;
+    font-size: 25px;
+    padding-top:20px;
+    padding-bottom:10px;
+}
+#description{
+    color:white;
+    font-size:12px;
+    font-family: sans-serif;
+    padding-bottom: 15px;;
+}
+#survey-form{
+    display:inline-block;
+    background-color:black;
+    color:white;
+    font-family:sans-serif;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left:15px;
+    padding-right:15px;
+    width:500px;
+    height:auto;
+    
+}
+#name-label{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+}
+#name{
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+    min-width:90%;
+    border-radius: 5px;
+}
+#email-label{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+}
+#email{
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+    min-width:90%;
+    border-radius: 5px;
+}
+#number-label{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+}
+#number{
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+    min-width:90%;
+    border-radius: 5px;
+}
+#select-label{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+}
+#dropdown{
+  
+    padding-left:15px;
+    padding-bottom:10px;
+    padding-right:15px;
+    min-width:95%;
+    border-radius: 5px;
+}
+#radioBut{
+    text-align: left;
+}
+textarea{
+    
+    height:100px;
+    width:95%;
+}
+#submit{
+    padding-top:10px;
+    min-width:95%;
+    background-color: aquamarine;
+    color:brown;
+
+}
